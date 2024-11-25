@@ -77,6 +77,10 @@ header {
 	background-color: #e9d5a1;
 	padding-bottom: 10px;
 	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 3rem;
 }
 
 header h1 {
@@ -237,6 +241,7 @@ header h1 {
 	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	border-radius: 16px !important;
 }
 
 .experience-badge {
@@ -245,9 +250,12 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
-	color: black;
+	color: #000000 !important;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	margin-right: 0.5rem;
+	margin-bottom: 0.5rem;
+	border-radius: 16px !important;
 }
 
 .vertical-timeline-element-date {
@@ -371,6 +379,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
