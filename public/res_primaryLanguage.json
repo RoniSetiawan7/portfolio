@@ -1,118 +1,158 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Halo",
+    "description": "👋 Saya Roni Setiawan, seorang programmer yang selalu berusaha menulis kode lebih rapi daripada kamar saya (meskipun kadang tidak berhasil 😜). Dunia teknologi adalah tempat saya berkarya, dan saya menikmati setiap detiknya—mulai dari menulis kode yang bikin senyum, hingga men-debug bug yang bikin stres.\n\nDi sini, Anda akan menemukan berbagai proyek yang sudah saya kerjakan, mulai dari aplikasi web hingga perangkat lunak yang mungkin bisa membuat hidup lebih mudah (atau setidaknya tidak lebih rumit). Saya selalu berusaha membuat kode yang bersih dan mudah dipahami, karena saya percaya dunia sudah cukup rumit tanpa harus bingung dengan baris kode yang panjang-panjang.\n\nCatatan : Jika Anda juga seorang programmer, saya harap Anda tidak menemukan bug di sini... semoga saja 😉.",
+    "section_name": {
+      "about": "Tentang Saya",
+      "projects": "Proyek",
+      "skills": "Keahlian",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Bima Mobile",
+      "startDate": "2023",
+      "description": "Bima Mobile adalah aplikasi perbankan milik Bank Jateng. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya :\n• Informasi dan Simulasi Kurs\n• Angsuranku\n• Deposito\n• Deeplink Sakpole (Pembayaran Pajak Kendaraan Bermotor)\n• QRIS dan Pelunasan Ready Cash",
+      "images": [
+        "images/portfolio/jateng1.png",
+        "images/portfolio/jateng2.png",
+        "images/portfolio/jateng3.png",
+        "images/portfolio/jateng4.png",
+        "images/portfolio/jateng5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "JakOne Mobile",
+      "startDate": "2023",
+      "description": "JakOne Mobile adalah aplikasi perbankan milik Bank DKI Jakarta. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya : \n• Ayo Connect KAI (Pembelian Tiket Kereta Api)\n• Near Me (Info Lokasi Mitra Bank DKI)",
+      "images": [
+        "images/portfolio/dki1.png",
+        "images/portfolio/dki2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Evil Corps",
+      "startDate": "2023",
+      "description": "Evil Corps adalah aplikasi yang dibuat untuk memenuhi proyek tugas akhir pelatihan pemrograman Flutter di IST.",
+      "images": [
+        "images/portfolio/evil1.png",
+        "images/portfolio/evil2.png",
+        "images/portfolio/evil3.png",
+        "images/portfolio/evil4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Sephora",
+      "startDate": "2022",
+      "description": "Sephora adalah aplikasi yang dibuat selama mengikuti pelatihan pemrograman Flutter di IST.",
+      "images": [
+        "images/portfolio/sephora1.png",
+        "images/portfolio/sephora2.png",
+        "images/portfolio/sephora3.png",
+        "images/portfolio/sephora4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Mobile",
+      "startDate": "2021",
+      "description": "Esdalang Mobile adalah aplikasi penunjang pembelajaran daring siswa SMP Negeri 2 Kemalang selama pandemi Covid-19. Aplikasi ini saya buat untuk memenuhi tugas akhir skripsi saya pada jurusan Teknik Informatika.",
+      "images": [
+        "images/portfolio/esdalang1.png",
+        "images/portfolio/esdalang2.png",
+        "images/portfolio/esdalang3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Web Portal",
+      "startDate": "2021",
+      "description": "Esdalang Web Portal adalah situs web yang dapat digunakan untuk mengelola isi atau konten dari aplikasi Esdalang Mobile. Web portal ini saya buat untuk memenuhi tugas akhir skripsi saya pada jurusan Teknik Informatika.",
+      "images": [
+        "images/portfolio/portal1.png",
+        "images/portfolio/portal2.png",
+        "images/portfolio/portal3.png",
+        "images/portfolio/portal4.png",
+        "images/portfolio/portal5.png",
+        "images/portfolio/portal6.png",
+        "images/portfolio/portal7.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT. Infosys Solusi Terpadu (IST)",
+      "title": "Front-End Developer",
+      "years": "02.2023 - 10.2024",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Firebase",
+        "OCR",
+        "Face Recognition",
+        "Biometric",
+        "Deeplink"
+      ]
+    },
+    {
+      "company": "CV. Rumah Mesin",
+      "title": "Intern",
+      "years": "06.2020 - 08.2020",
+      "mainTech": [
+        "Search Engine Optimization"
+      ],
+      "technologies": [
+        "Wordpress",
+        "WhatsMySerp",
+        "Plagiarism Checker",
+        "Keyword Planner"
+      ]
+    }
+  ]
+}

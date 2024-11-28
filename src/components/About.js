@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import angularIcon from "@iconify/icons-logos/angular-icon";
-import reactIcon from "@iconify/icons-logos/react";
-import vueIcon from "@iconify/icons-logos/vue";
+import flutterIcon from "@iconify/icons-logos/flutter";
 
 class About extends Component {
   render() {
@@ -31,15 +29,7 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={vueIcon}
+                    icon={flutterIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -48,7 +38,7 @@ class About extends Component {
 
             <div className="col-md-8 center">
               <div className="col-md-10">
-                <div className="card">
+                <div className="card" style={{ whiteSpace: "pre-line" }}>
                   <div className="card-header">
                     <span
                       className="iconify"
