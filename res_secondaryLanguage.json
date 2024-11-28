@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Roni Setiawan, a programmer who always tries to write cleaner code than my room (though sometimes I fail 😜). The tech world is where I thrive, and I enjoy every second of it—whether it's writing code that makes me smile or debugging bugs that stress me out.\n\nHere, you'll find various projects I've worked on, from web applications to software that might make life a little easier (or at least not more complicated). I always strive to write clean and easy-to-understand code, because I believe the world is complicated enough without having to struggle with long lines of code.\n\nNote: If you're also a programmer, I hope you don't find any bugs here... fingers crossed 😉.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Bima Mobile",
+      "startDate": "2023",
+      "description": "Bima Mobile is a banking app owned by Bank Jateng. In this app, I developed several features including:\n• Exchange Rate Info and Simulation\n• My Installments\n• Deposit\n• Deeplink Sakpole (Vehicle Tax Payment)\n• QRIS and Ready Cash Settlement",
+      "images": [
+        "images/portfolio/jateng1.png",
+        "images/portfolio/jateng2.png",
+        "images/portfolio/jateng3.png",
+        "images/portfolio/jateng4.png",
+        "images/portfolio/jateng5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "JakOne Mobile",
+      "startDate": "2023",
+      "description": "JakOne Mobile is a banking app owned by Bank DKI Jakarta. In this app, I developed several features including:\n• Ayo Connect KAI (Train Ticket Purchase)\n• Near Me (Info on Bank DKI Partners)",
+      "images": [
+        "images/portfolio/dki1.png",
+        "images/portfolio/dki2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Evil Corps",
+      "startDate": "2023",
+      "description": "Evil Corps is an app created for a final project in a Flutter programming training at IST.",
+      "images": [
+        "images/portfolio/evil1.png",
+        "images/portfolio/evil2.png",
+        "images/portfolio/evil3.png",
+        "images/portfolio/evil4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Sephora",
+      "startDate": "2022",
+      "description": "Sephora is an app created during a Flutter programming training at IST.",
+      "images": [
+        "images/portfolio/sephora1.png",
+        "images/portfolio/sephora2.png",
+        "images/portfolio/sephora3.png",
+        "images/portfolio/sephora4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Mobile",
+      "startDate": "2021",
+      "description": "Esdalang Mobile is an app created to support online learning for students of SMP Negeri 2 Kemalang during the Covid-19 pandemic. This app was developed for my final thesis in the Informatics Engineering department.",
+      "images": [
+        "images/portfolio/esdalang1.png",
+        "images/portfolio/esdalang2.png",
+        "images/portfolio/esdalang3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Web Portal",
+      "startDate": "2021",
+      "description": "Esdalang Web Portal is a website used to manage the content of the Esdalang Mobile app. This web portal was created for my final thesis in the Informatics Engineering department.",
+      "images": [
+        "images/portfolio/portal1.png",
+        "images/portfolio/portal2.png",
+        "images/portfolio/portal3.png",
+        "images/portfolio/portal4.png",
+        "images/portfolio/portal5.png",
+        "images/portfolio/portal6.png",
+        "images/portfolio/portal7.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT. Infosys Solusi Terpadu (IST)",
+      "title": "Front-End Developer",
+      "years": "02.2023 - 10.2024",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Firebase",
+        "OCR",
+        "Face Recognition",
+        "Biometric",
+        "Deeplink"
+      ]
+    },
+    {
+      "company": "CV. Rumah Mesin",
+      "title": "Intern",
+      "years": "06.2020 - 08.2020",
+      "mainTech": [
+        "Search Engine Optimization"
+      ],
+      "technologies": [
+        "Wordpress",
+        "WhatsMySerp",
+        "Plagiarism Checker",
+        "Keyword Planner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "basic_info": {
+    "description_header": "Halo",
+    "description": "👋 Saya Roni Setiawan, seorang programmer yang selalu berusaha menulis kode lebih rapi daripada kamar saya (meskipun kadang tidak berhasil 😜). Dunia teknologi adalah tempat saya berkarya, dan saya menikmati setiap detiknya—mulai dari menulis kode yang bikin senyum, hingga men-debug bug yang bikin stres.\n\nDi sini, Anda akan menemukan berbagai proyek yang sudah saya kerjakan, mulai dari aplikasi web hingga perangkat lunak yang mungkin bisa membuat hidup lebih mudah (atau setidaknya tidak lebih rumit). Saya selalu berusaha membuat kode yang bersih dan mudah dipahami, karena saya percaya dunia sudah cukup rumit tanpa harus bingung dengan baris kode yang panjang-panjang.\n\nCatatan : Jika Anda juga seorang programmer, saya harap Anda tidak menemukan bug di sini... semoga saja 😉.",
+    "section_name": {
+      "about": "Tentang Saya",
+      "projects": "Proyek",
+      "skills": "Keahlian",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Bima Mobile",
+      "startDate": "2023",
+      "description": "Bima Mobile adalah aplikasi perbankan milik Bank Jateng. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya :\n• Informasi dan Simulasi Kurs\n• Angsuranku\n• Deposito\n• Deeplink Sakpole (Pembayaran Pajak Kendaraan Bermotor)\n• QRIS dan Pelunasan Ready Cash",
+      "images": [
+        "images/portfolio/jateng1.png",
+        "images/portfolio/jateng2.png",
+        "images/portfolio/jateng3.png",
+        "images/portfolio/jateng4.png",
+        "images/portfolio/jateng5.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "JakOne Mobile",
+      "startDate": "2023",
+      "description": "JakOne Mobile adalah aplikasi perbankan milik Bank DKI Jakarta. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya : \n• Ayo Connect KAI (Pembelian Tiket Kereta Api)\n• Near Me (Info Lokasi Mitra Bank DKI)",
+      "images": [
+        "images/portfolio/dki1.png",
+        "images/portfolio/dki2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Evil Corps",
+      "startDate": "2023",
+      "description": "Evil Corps adalah aplikasi yang dibuat untuk memenuhi proyek tugas akhir pelatihan pemrograman Flutter di IST.",
+      "images": [
+        "images/portfolio/evil1.png",
+        "images/portfolio/evil2.png",
+        "images/portfolio/evil3.png",
+        "images/portfolio/evil4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Sephora",
+      "startDate": "2022",
+      "description": "Sephora adalah aplikasi yang dibuat selama mengikuti pelatihan pemrograman Flutter di IST.",
+      "images": [
+        "images/portfolio/sephora1.png",
+        "images/portfolio/sephora2.png",
+        "images/portfolio/sephora3.png",
+        "images/portfolio/sephora4.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Mobile",
+      "startDate": "2021",
+      "description": "Esdalang Mobile adalah aplikasi penunjang pembelajaran daring siswa SMP Negeri 2 Kemalang selama pandemi Covid-19. Aplikasi ini saya buat untuk memenuhi tugas akhir skripsi saya pada jurusan Teknik Informatika.",
+      "images": [
+        "images/portfolio/esdalang1.png",
+        "images/portfolio/esdalang2.png",
+        "images/portfolio/esdalang3.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-flutter-plain",
+          "name": "Flutter"
+        }
+      ]
+    },
+    {
+      "title": "Esdalang Web Portal",
+      "startDate": "2021",
+      "description": "Esdalang Web Portal adalah situs web yang dapat digunakan untuk mengelola isi atau konten dari aplikasi Esdalang Mobile. Web portal ini saya buat untuk memenuhi tugas akhir skripsi saya pada jurusan Teknik Informatika.",
+      "images": [
+        "images/portfolio/portal1.png",
+        "images/portfolio/portal2.png",
+        "images/portfolio/portal3.png",
+        "images/portfolio/portal4.png",
+        "images/portfolio/portal5.png",
+        "images/portfolio/portal6.png",
+        "images/portfolio/portal7.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT. Infosys Solusi Terpadu (IST)",
+      "title": "Front-End Developer",
+      "years": "02.2023 - 10.2024",
+      "mainTech": [
+        "Flutter"
+      ],
+      "technologies": [
+        "Firebase",
+        "OCR",
+        "Face Recognition",
+        "Biometric",
+        "Deeplink"
+      ]
+    },
+    {
+      "company": "CV. Rumah Mesin",
+      "title": "Intern",
+      "years": "06.2020 - 08.2020",
+      "mainTech": [
+        "Search Engine Optimization"
+      ],
+      "technologies": [
+        "Wordpress",
+        "WhatsMySerp",
+        "Plagiarism Checker",
+        "Keyword Planner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "basic_info": {
+    "name": "Roni Setiawan",
+    "titles": [
+      "Front-End Developer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/RoniSetiawan7",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Flutter",
+        "class": "devicon-flutter-plain",
+        "level": "0"
+      },
+      {
+        "name": "Laravel",
+        "class": "devicon-laravel-plain",
+        "level": "0"
+      },
+      {
+        "name": "PHP",
+        "class": "devicon-php-plain",
+        "level": "0"
+      },
+      {
+        "name": "MySQL",
+        "class": "devicon-mysql-plain",
+        "level": "0"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "0"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "0"
+      }
+    ]
+  }
+}
