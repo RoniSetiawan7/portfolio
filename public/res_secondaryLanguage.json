@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Roni Setiawan, a programmer who always tries to write cleaner code than my room (though sometimes I fail 😜). The tech world is where I thrive, and I enjoy every second of it—whether it's writing code that makes me smile or debugging bugs that stress me out.\n\nHere, you'll find various projects I've worked on, from web applications to software that might make life a little easier (or at least not more complicated). I always strive to write clean and easy-to-understand code, because I believe the world is complicated enough without having to struggle with long lines of code.\n\nNote: If you're also a programmer, I hope you don't find any bugs here... fingers crossed 😉.",
+    "description": "👋 I'm Roni Setiawan, a programmer who always tries to write code tidier than my room (although sometimes it doesn't work 😜). The tech world is where I work, and I enjoy every second of it-from writing code that makes me smile, to debugging bugs that make me stressed.\n\nHere, you'll find various projects I've worked on, ranging from web applications to software that might make life easier (or at least less complicated). I always try to create code that is clean and easy to understand, because I believe the world is complicated enough without being confused by long lines of code.\n\nNote: If you're also a programmer, I hope you don't find any bugs here... fingers crossed 😉.",
     "section_name": {
       "about": "About Me",
       "projects": "Projects",
@@ -13,7 +13,7 @@
     {
       "title": "Bima Mobile",
       "startDate": "2023",
-      "description": "Bima Mobile is a banking app owned by Bank Jateng. In this app, I developed several features including:\n• Exchange Rate Info and Simulation\n• My Installments\n• Deposit\n• Deeplink Sakpole (Vehicle Tax Payment)\n• QRIS and Ready Cash Settlement",
+      "description": "Bima Mobile is a banking application owned by Bank Jateng developed by PT Infosys Solusi Terpadu (IST). In this application, I developed several features including: \n- Kurs Information and Simulation\n- Angsuranku\n- Deposit\n- Deeplink Sakpole (Motor Vehicle Tax Payment) \n- QRIS and Ready Cash Repayment\n\nIn addition, I took part in identifying and fixing bugs in this application, as well as making changes to the program flow on features that are already running, in order to improve the overall performance and functionality of the application.",
       "images": [
         "images/portfolio/jateng1.png",
         "images/portfolio/jateng2.png",
@@ -32,7 +32,7 @@
     {
       "title": "JakOne Mobile",
       "startDate": "2023",
-      "description": "JakOne Mobile is a banking app owned by Bank DKI Jakarta. In this app, I developed several features including:\n• Ayo Connect KAI (Train Ticket Purchase)\n• Near Me (Info on Bank DKI Partners)",
+      "description": "JakOne Mobile is a banking application owned by Bank DKI Jakarta developed by PT Infosys Solusi Terpadu (IST). In this application, I developed several features including: \n- Ayo Connect KAI (Train Ticket Purchase) \n- Near Me (Bank DKI Partner Location Info) \n\n In addition, I took part in identifying and fixing bugs in this application, as well as making changes to the program flow on features that were already running, in order to improve the overall performance and functionality of the application.",
       "images": [
         "images/portfolio/dki1.png",
         "images/portfolio/dki2.png"
@@ -48,7 +48,7 @@
     {
       "title": "Evil Corps",
       "startDate": "2023",
-      "description": "Evil Corps is an app created for a final project in a Flutter programming training at IST.",
+      "description": "Evil Corps is an application created to fulfill the final project of flutter programming training at IST. This final project aims to determine the ability of each individual after a 3-month bootcamp program (including 1 month of final project work). In the flutter frontend position there are 2 people working on this project, so the images shown are only the features that I worked on.",
       "images": [
         "images/portfolio/evil1.png",
         "images/portfolio/evil2.png",
@@ -66,7 +66,7 @@
     {
       "title": "Sephora",
       "startDate": "2022",
-      "description": "Sephora is an app created during a Flutter programming training at IST.",
+      "description": "Sephora is an application created during the 3-month flutter programming training at IST. During the training, I learned many things about flutter, including: \n- Turning design into program code\n- API integration\n- State management (Bloc/Cubit and Provider)\n- Local storage (Shared Preferences and Hive)\n- Firebase",
       "images": [
         "images/portfolio/sephora1.png",
         "images/portfolio/sephora2.png",
@@ -84,7 +84,7 @@
     {
       "title": "Esdalang Mobile",
       "startDate": "2021",
-      "description": "Esdalang Mobile is an app created to support online learning for students of SMP Negeri 2 Kemalang during the Covid-19 pandemic. This app was developed for my final thesis in the Informatics Engineering department.",
+      "description": "Esdalang Mobile is an application to support online learning for SMP Negeri 2 Kemalang students during the Covid-19 pandemic. I made this application to fulfill my final thesis assignment in the Informatics Engineering department.",
       "images": [
         "images/portfolio/esdalang1.png",
         "images/portfolio/esdalang2.png",
@@ -101,7 +101,7 @@
     {
       "title": "Esdalang Web Portal",
       "startDate": "2021",
-      "description": "Esdalang Web Portal is a website used to manage the content of the Esdalang Mobile app. This web portal was created for my final thesis in the Informatics Engineering department.",
+      "description": "Esdalang Web Portal is a website that can be used to manage the content of the Esdalang Mobile application. I made this web portal to fulfill my final thesis assignment in the Informatics Engineering department.",
       "images": [
         "images/portfolio/portal1.png",
         "images/portfolio/portal2.png",
