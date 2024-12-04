@@ -13,7 +13,7 @@
     {
       "title": "Bima Mobile",
       "startDate": "2023",
-      "description": "Bima Mobile adalah aplikasi perbankan milik Bank Jateng. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya :\n• Informasi dan Simulasi Kurs\n• Angsuranku\n• Deposito\n• Deeplink Sakpole (Pembayaran Pajak Kendaraan Bermotor)\n• QRIS dan Pelunasan Ready Cash",
+      "description": "Bima Mobile adalah aplikasi perbankan milik Bank Jateng yang dikembangkan oleh PT Infosys Solusi Terpadu (IST). Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya :\n• Informasi dan Simulasi Kurs\n• Angsuranku\n• Deposito\n• Deeplink Sakpole (Pembayaran Pajak Kendaraan Bermotor)\n• QRIS dan Pelunasan Ready Cash\n\nSelain itu, saya ikut berperan dalam mengidentifikasi dan memperbaiki bug yang ada pada aplikasi ini, serta melakukan perubahan pada alur program pada fitur yang sudah berjalan, guna meningkatkan performa dan fungsionalitas aplikasi secara keseluruhan.",
       "images": [
         "images/portfolio/jateng1.png",
         "images/portfolio/jateng2.png",
@@ -32,7 +32,7 @@
     {
       "title": "JakOne Mobile",
       "startDate": "2023",
-      "description": "JakOne Mobile adalah aplikasi perbankan milik Bank DKI Jakarta. Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya : \n• Ayo Connect KAI (Pembelian Tiket Kereta Api)\n• Near Me (Info Lokasi Mitra Bank DKI)",
+      "description": "JakOne Mobile adalah aplikasi perbankan milik Bank DKI Jakarta yang dikembangkan oleh PT Infosys Solusi Terpadu (IST). Di aplikasi ini, saya mengembangkan beberapa fitur diantaranya : \n• Ayo Connect KAI (Pembelian Tiket Kereta Api)\n• Near Me (Info Lokasi Mitra Bank DKI)\n\nSelain itu, saya ikut berperan dalam mengidentifikasi dan memperbaiki bug yang ada pada aplikasi ini, serta melakukan perubahan pada alur program pada fitur yang sudah berjalan, guna meningkatkan performa dan fungsionalitas aplikasi secara keseluruhan.",
       "images": [
         "images/portfolio/dki1.png",
         "images/portfolio/dki2.png"
@@ -48,7 +48,7 @@
     {
       "title": "Evil Corps",
       "startDate": "2023",
-      "description": "Evil Corps adalah aplikasi yang dibuat untuk memenuhi proyek tugas akhir pelatihan pemrograman Flutter di IST.",
+      "description": "Evil Corps adalah aplikasi yang dibuat untuk memenuhi proyek tugas akhir pelatihan pemrograman flutter di IST. Proyek akhir ini bertujuan untuk mengetahui kemampuan setiap individu setelah diadakannya program bootcamp selama 3 bulan (termasuk pengerjaan proyek akhir selama 1 bulan). Pada posisi frontend flutter terdapat 2 orang yang mengerjakan proyek ini, sehingga gambar yang ditampilkan hanyalah fitur yang saya kerjakan.",
       "images": [
         "images/portfolio/evil1.png",
         "images/portfolio/evil2.png",
@@ -66,7 +66,7 @@
     {
       "title": "Sephora",
       "startDate": "2022",
-      "description": "Sephora adalah aplikasi yang dibuat selama mengikuti pelatihan pemrograman Flutter di IST.",
+      "description": "Sephora adalah aplikasi yang dibuat selama mengikuti pelatihan pemrograman flutter di IST yang dilangsungkan selama 3 bulan. Selama pelatihan, saya mempelajari banyak hal tentang flutter, diantaranya : \n• Mengubah desain menjadi kode program\n• Integrasi API\n• State management (Bloc/Cubit dan Provider)\n• Penyimpanan lokal (Shared Preferences dan Hive)\n• Firebase",
       "images": [
         "images/portfolio/sephora1.png",
         "images/portfolio/sephora2.png",
